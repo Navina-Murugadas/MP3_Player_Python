@@ -1,6 +1,5 @@
 # MP3 PLAYER USING PYTHON
-Everybody loves listening music wouldn’t it be cool to have our very own mp3 music player. So, we will create an mp3 music player in which we can play the song, pause it, resume it, and stop it.  We will be using Python and its libraries. The first library that we will be using is Tkinter which is a widely used GUI library offered by python, we do not have to install it separately, as it comes with python itself.
-Next, we will be using the mixer module of a very famous python library called Pygame.  Pygame is basically used to create video games, it includes computer graphics and sound libraries. Mixer is one such sound library. Then, we will use the os library of python to interact with the Operating system.
+Everybody loves listening music wouldn’t it be cool to have our very own mp3 music player. So, we will create an mp3 music player in which we can play the song, pause it, resume it, and stop it.  We will be using Python and its libraries. The first library that we will be using is Tkinter which is a widely used GUI library offered by python.  Next, we will be using the mixer module of a very famous python library called Pygame.  Pygame is basically used to create video games, it includes computer graphics and sound libraries. Mixer is one such sound library. Then, we will use the os library of python to interact with the Operating system.
 
 # Tools/Technologies used:
 1. Python - Pycharm
